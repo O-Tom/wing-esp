@@ -1,8 +1,8 @@
 # WingEsp - Wireless Access Enabler for Behringer WING Mixing Console
 
-<img src="docs/WingEsp_prototype.png" alt="Working prototype" width="400" />
+<img src="docs/WingEsp_Case.jpg" alt="Soldered, with 3D printed case" width="400" />
 
-A device that enables smartphones and tablets to connect wirelessly to a Behringer WING mixing console by emulating internet connectivity check responses. WingEsp removes the barrier that prevents iOS and Android devices from joining networks without external internet connectivity.
+The WingEsp is an ESP32 based connected device that enables smartphones and tablets to connect wirelessly to a Behringer WING mixing console by emulating internet connectivity check responses. WingEsp removes the barrier that prevents iOS and Android devices from joining networks without external internet connectivity.
 
 ## Problem Statement
 
